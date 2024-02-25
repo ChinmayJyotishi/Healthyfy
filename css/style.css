@@ -617,6 +617,12 @@ a:focus {
   margin-top: -70px;
  
 }
+.about-img{
+  border-radius: 30%;
+}
+.specialist-img{
+  border-radius: 0px 20% 0px 20%;
+}
 
 .feature-item {
   flex-basis: 33.33%;
